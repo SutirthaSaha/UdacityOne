@@ -20,6 +20,7 @@
         android:layout_marginLeft="20dp"
         android:textSize="36sp"
         android:fontFamily="sans-serif"
+        android:id="@+id/text_view"
         android:text="Happy Birthday, Year"/>
     <TextView
         android:layout_width="wrap_content"
